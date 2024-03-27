@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{1392:function(n,t,o){"use strict";var a=o(1);t.a=function(n,t,o){var e=n,i=e.getCalculatedFontSize();o?e.FontSize=i:e.switchToAutoFontSize(),t(!o),a.a.getAnnotationManager().redrawAnnotation(e)}}}]);
+//# sourceMappingURL=8.chunk.js.map

@@ -1,0 +1,27 @@
+.drop-container{
+  width: 600px;
+  padding: 2.5rem 7rem;
+  background-color: gray;
+  font-family: 'poppins';
+  border-radius: 20px;
+}
+.no-file{
+  width: 100%;
+}
+.img{
+  width: 100px;
+}
+.pdf-para{
+  font-size: 20px;
+}
+.btn{
+  padding: 5px 20px;
+  border-radius: 10px;
+  font-size: 21px;
+  border: none;
+  margin-top: 7px;
+  cursor: pointer;
+}
+.btn:hover{
+background-color: gainsboro;
+}
